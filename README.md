@@ -1,4 +1,4 @@
-# Star_Wars_Random
+# Star Wars Random Character Generator
 [Demo Link](http://alisonchilders.com/starwars/starwars_random.html)
 
 ## Description
